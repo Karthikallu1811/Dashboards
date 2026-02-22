@@ -30,9 +30,13 @@ Analyze YouTube channel performance, sentiment distribution, category engagement
 
 Key Insights:
 1.Average comments per day tracking
+
 2.Sentiment analysis by category
+
 3.Top 10 YouTubers by subscribers
+
 4.Most viewed categories
+
 5.Channel start year trends
 
 Business Value:
@@ -45,9 +49,13 @@ Analyze job posting trends, application activity, and in-demand roles across loc
 
 Key Insights:
 1.Average jobs posted per day
+
 2.Applications per day
+
 3.Top trending job roles
+
 4.Job distribution by location
+
 5.Alumni connections in various roles
 
 Business Value:
@@ -60,9 +68,13 @@ Explore Netflix content distribution by type, rating, country, and release year.
 
 Key Insights:
 1.Movies vs TV show ratio
+
 2.Content ratings distribution
+
 3.Titles by release year
+
 4.Number of seasons analysis
+
 5.Global content production map
 
 Business Value:
@@ -75,9 +87,13 @@ Analyze music trends, genre popularity, and artist performance.
 
 Key Insights:
 1.Total albums and genres
+
 2.Genre popularity ranking
+
 3.Most listened artists
+
 4.Duration distribution by artist
+
 5.Average releases per year
 
 Business Value:
@@ -90,9 +106,13 @@ Evaluate sales performance, product popularity, and revenue trends.
 
 Key Insights:
 1.Total revenue and pizzas sold
+
 2.Revenue by day of week
+
 3.Seat utilization trends
+
 4.Best & worst selling pizzas
+
 5.Sales by pizza size
 
 Business Value:
@@ -105,9 +125,13 @@ Analyze company financial metrics including sales, profit, and country-wise perf
 
 Key Insights:
 1.Gross sales, net sales, COGS
+
 2.Sales & profit trends over time
+
 3.Product performance comparison
+
 4.Country-level financial breakdown
+
 5.Segment & discount band analysis
 
 Business Value:
@@ -124,6 +148,9 @@ Supports strategic financial decision-making and performance evaluation.
 🚀 Future Enhancements:
 
 *Add interactive dashboard links
+
 *Add dataset references
+
 *Include business recommendations for each project
+
 *Publish dashboards online
