@@ -8,6 +8,8 @@ This repository contains a collection of interactive dashboards built using real
 
 Each dashboard focuses on extracting actionable insights, identifying trends, and presenting data through clean and intuitive visual storytelling.
 
+
+
 🧠 Tools & Technologies Used
 
 1.Power BI
@@ -21,6 +23,8 @@ Each dashboard focuses on extracting actionable insights, identifying trends, an
 5.KPI Design
 
 6.Business Insight Reporting
+
+
 
 📂 Dashboards Included
 
@@ -44,6 +48,8 @@ Key Insights:
 Business Value:
 Helps understand content performance trends and audience engagement patterns.
 
+
+
 2️⃣ LinkedIn Job Market Dashboard:
 
 Objective:
@@ -63,6 +69,8 @@ Key Insights:
 
 Business Value:
 Identifies hiring trends and high-demand technical skills in the job market.
+
+
 
 3️⃣ Netflix Content Analysis Dashboard:
 
@@ -84,6 +92,8 @@ Key Insights:
 Business Value:
 Provides insight into content strategy, global expansion, and audience targeting.
 
+
+
 4️⃣ Spotify Music Analytics Dashboard:
 
 Objective:
@@ -103,6 +113,8 @@ Key Insights:
 
 Business Value:
 Highlights listening trends and genre performance patterns.
+
+
 
 5️⃣ Plato’s Pizza Sales Dashboard:
 
@@ -124,6 +136,8 @@ Key Insights:
 Business Value:
 Helps optimize product offerings and improve sales strategy.
 
+
+
 6️⃣ Financial Performance Dashboard:
 
 Objective:
@@ -144,6 +158,9 @@ Key Insights:
 Business Value:
 Supports strategic financial decision-making and performance evaluation.
 
+
+
+
 📈 What This Repository Demonstrates:
 
 ✔ Strong data visualization skills
@@ -155,6 +172,9 @@ Supports strategic financial decision-making and performance evaluation.
 ✔ KPI design & dashboard structuring
 
 ✔ Multi-domain analytical capability
+
+
+
 
 🚀 Future Enhancements:
 
