@@ -5,6 +5,7 @@
 📌 Overview:
 
 This repository contains a collection of interactive dashboards built using real-world datasets across different domains including social media, entertainment, music streaming, food sales, and financial performance.
+
 Each dashboard focuses on extracting actionable insights, identifying trends, and presenting data through clean and intuitive visual storytelling.
 
 🧠 Tools & Technologies Used
@@ -29,6 +30,7 @@ Objective:
 Analyze YouTube channel performance, sentiment distribution, category engagement, and creator growth trends.
 
 Key Insights:
+
 1.Average comments per day tracking
 
 2.Sentiment analysis by category
@@ -48,6 +50,7 @@ Objective:
 Analyze job posting trends, application activity, and in-demand roles across locations.
 
 Key Insights:
+
 1.Average jobs posted per day
 
 2.Applications per day
@@ -67,6 +70,7 @@ Objective:
 Explore Netflix content distribution by type, rating, country, and release year.
 
 Key Insights:
+
 1.Movies vs TV show ratio
 
 2.Content ratings distribution
@@ -86,6 +90,7 @@ Objective:
 Analyze music trends, genre popularity, and artist performance.
 
 Key Insights:
+
 1.Total albums and genres
 
 2.Genre popularity ranking
@@ -105,6 +110,7 @@ Objective:
 Evaluate sales performance, product popularity, and revenue trends.
 
 Key Insights:
+
 1.Total revenue and pizzas sold
 
 2.Revenue by day of week
@@ -124,6 +130,7 @@ Objective:
 Analyze company financial metrics including sales, profit, and country-wise performance.
 
 Key Insights:
+
 1.Gross sales, net sales, COGS
 
 2.Sales & profit trends over time
@@ -140,9 +147,13 @@ Supports strategic financial decision-making and performance evaluation.
 📈 What This Repository Demonstrates:
 
 ✔ Strong data visualization skills
+
 ✔ Business problem understanding
+
 ✔ Data storytelling ability
+
 ✔ KPI design & dashboard structuring
+
 ✔ Multi-domain analytical capability
 
 🚀 Future Enhancements:
