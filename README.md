@@ -10,10 +10,15 @@ Each dashboard focuses on extracting actionable insights, identifying trends, an
 🧠 Tools & Technologies Used
 
 1.Power BI
+
 2.Data Cleaning & Transformation
+
 3.DAX Calculations
+
 4.Data Modeling
+
 5.KPI Design
+
 6.Business Insight Reporting
 
 📂 Dashboards Included
